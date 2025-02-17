@@ -1,0 +1,6 @@
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+division_result = max(number1, number2) // min(number1, number2)
+remainder = max(number1, number2) % min(number1, number2)
+print(f"Division result: {division_result}")
+print(f"Remainder: {remainder}")

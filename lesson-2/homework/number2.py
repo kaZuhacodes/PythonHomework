@@ -1,0 +1,5 @@
+number1 = input("Write first number: ")
+number2 = input("Write second number: ")
+number3 = input("Write third number: ")
+print("The largest number is: ", max(number1, number2, number3))
+print("The smallest number is: ", min(number1, number2, number3))

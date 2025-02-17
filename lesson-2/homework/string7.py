@@ -1,0 +1,5 @@
+sentence = input("Please enter a sentence: ")
+word1 = input("Please enter a word to replace: ")
+word2 = input("Please enter another word to put: ")
+sentence = sentence.replace(word1, word2)
+print(sentence)
