@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 7
+Top Words:
+python - 1
+is - 1
+a - 1
+highlevel - 1
+generalpurpose - 1
